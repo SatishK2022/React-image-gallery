@@ -1,4 +1,4 @@
-# React Image Gallery with Tailwind CSS
+# React Image Gallery
 
 This is a simple image gallery application built using Vite, React, and styled with Tailwind CSS. The application fetches image data from the api.slingacademy.com API and displays a grid of image cards on the home screen. Clicking on an image card will show the image title and description in a modal.
 
